@@ -1,0 +1,29 @@
+{
+    "PlayerScript": {
+        "checkpoints": [
+            {
+                "steps": 240008,
+                "file_path": "results/ia8/PlayerScript/PlayerScript-240008.onnx",
+                "reward": -1.0491998940706253,
+                "creation_time": 1643250416.589078,
+                "auxillary_file_paths": [
+                    "results/ia8/PlayerScript/PlayerScript-240008.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 240008,
+            "file_path": "results/ia8/PlayerScript.onnx",
+            "reward": -1.0491998940706253,
+            "creation_time": 1643250416.589078,
+            "auxillary_file_paths": [
+                "results/ia8/PlayerScript/PlayerScript-240008.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.1"
+    }
+}
